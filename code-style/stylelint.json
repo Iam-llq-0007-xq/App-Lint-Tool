@@ -1,0 +1,32 @@
+{
+  "rules": {
+    "at-rule-no-unknown": null,
+    "comment-empty-line-before": null,
+    "declaration-empty-line-before": "never",
+    "declaration-colon-space-after": "always",
+    "function-comma-newline-after": null,
+    "function-name-case": null,
+    "function-parentheses-newline-inside": null,
+    "function-max-empty-lines": 0,
+    "function-whitespace-after": "always",
+    "indentation": 2,
+    "max-empty-lines": 1,
+    "number-leading-zero": "always",
+    "number-no-trailing-zeros": true,
+    "rule-empty-line-before": null,
+    "selector-combinator-space-after": "always",
+    "selector-list-comma-newline-after": null,
+    "selector-pseudo-element-colon-notation": null,
+    "unit-no-unknown": null,
+    "value-list-max-empty-lines": 0,
+    "string-no-newline": null,
+    "selector-type-no-unknown": null,
+    "no-descending-specificity": null,
+    "selector-pseudo-element-no-unknown": [
+      true,
+      {
+        "ignorePseudoElements": ["ng-deep"]
+      }
+    ]
+  }
+}

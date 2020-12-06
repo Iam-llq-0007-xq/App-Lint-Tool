@@ -6,5 +6,6 @@
   "printWidth": 300,
   "tabWidth": 2,
   "bracketSpacing": true,
-  "stylelintIntegration": true
+  "stylelintIntegration": true,
+  "vetur.format.defaultFormatter.html": "prettier"
 }
